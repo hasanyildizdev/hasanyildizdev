@@ -7,5 +7,4 @@ Don't hesitate to contact with me.
 ▶️ https://www.youtube.com/@hasan.yildiz
 
 ![Hasan YILDIZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyiapp&show_icons=true&theme=highcontrast  )
-[![YILDIZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyiapp)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iyiapp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
