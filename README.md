@@ -7,5 +7,6 @@ Don't hesitate to contact with me.
 ▶️ https://www.youtube.com/@hasan.yildiz
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iyiapp&show_icons=true&theme=highcontrast  )
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iyiapp)](https://github.com/anuraghazra/github-readme-stats)
+[![Hasan YILDIZ's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=hasanyildiz&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+
 
